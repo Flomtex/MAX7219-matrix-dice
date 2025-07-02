@@ -12,13 +12,13 @@ It’s built as a **Minimum Viable Project (MVP)** — just enough code to demon
 
 ## 🧠 Why This Project?
 
-This is part of a personal learning journey into embedded systems, low-level display control, and Arduino programming. It's meant to be clear, hackable, and easy to build upon.
+This is part of a personal learning journey into Arduino programming. It's meant to be clear, hackable, and easy to build upon.
 
 ---
 
 ## 🔧 What's Included?
 
-- `dice_matrix.ino` – Main sketch for the dice logic
+- `dicematrix.ino` – Main sketch for the dice logic
 - `numbers.h` – Bitmaps for dice faces stored in flash memory
 
 ---
