@@ -18,7 +18,7 @@ This is part of a personal learning journey into Arduino programming. It's meant
 
 ## 🔧 What's Included?
 
-- `dicematrix.ino` – Main sketch for the dice logic
+- `dotMatrixCode.ino` – Main sketch for the dice logic
 - `numbers.h` – Bitmaps for dice faces stored in flash memory
 
 ---
