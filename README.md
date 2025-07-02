@@ -37,7 +37,7 @@ This is part of a personal learning journey into Arduino programming. It's meant
 ## 📦 Requirements
 
 - Arduino Uno, Nano, or Mega
-- 8x8 LED matrix with MAX7219
+- MAX7219 8x8 LED matrix 
 - Pushbutton (for rolling the dice)
 - [LedControl library] by Eberhard Fahle
 
